@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ASTRO 230 website</title>
+</head>
+
+<body>
+<center>
+        <h1>ASTRO 230 Final Project Website</h1>
+        <h2>Spectral Analysis and Grouping Be Stars: 
+Spectroscopic analysis of Hɑ and forbidden lines in 6352Å-6506Å</h2>
+        <object data=
+"Matti PDF pres (1).pdf" 
+                width="800" 
+                height="500"> 
+        </object>
+    </center>
+</body>
+
+</html>
